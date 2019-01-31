@@ -1,0 +1,1 @@
+I used the MS UnitTest implementation, all you have to do to discover the tests is to build the solution, go to the unit tests tab and run all tests.
