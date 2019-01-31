@@ -6,7 +6,7 @@ concepts that where beyond the scope of the project
 
 Implemented patterns
 
-I implemented the singleton patter in order not to instansiate a new dictionary everytime i needed to do a simple get of
+I implemented the singleton patter in order not to instantiate a new dictionary everytime i needed to do a simple get of
 an common atribute. I also found that, where this system to grow exponetialy, i would use up a whole lot o memory in vain.
 So i decided to apply the singleton to both RatesStrategy and Discounter. One may wonder why i didnt made the class static them,
 as i would access it in a static way non the less. I made it this way since i had to store variables (the hourly, daily, weekly and Family rates and discounts).
@@ -26,13 +26,11 @@ and its done. No more code needs to be re-touched and, as consequence, re-test i
 Things i left out
 
 Some of the key features i didnt implement are;
-A service Class: I intended to implement a layer of abstraction to handle the domain classes as well as some of the utilities
-i created. While on the drawing board i realized that it wasn't really necessary to implement said layer, since the only class
-that would (in this particular test) be a test class.
-The Id of the classes: Since i wasn't tasked to connect the system with a db, i found little to no use for an id. Again, for this 
-particular test.
+A service Class: I intended to implement a layer of abstraction to handle the domain classes as well as some of the utilities i created. While on the drawing board i realized that it wasn't really necessary to implement said layer, since the only class
+that would handle (in this particular test) be a test class.
+The Id of the classes: Since i wasn't tasked to connect the system with a db, i found little to no use for an id. Again, for this particular test.
 
 To sum-up
 
-I implemented a system that meets the required functionality. The system is able to grow in features as well as in workloads
-since i tried to minimiced the used memory and evade unnecessary complexity.
+I implemented a system that meets the required functionality. The system is able to grow in features as well as in workloads.
+And since i tried to minimiced the used memory and evade unnecessary complexity,this system could scale in a more stable maner
