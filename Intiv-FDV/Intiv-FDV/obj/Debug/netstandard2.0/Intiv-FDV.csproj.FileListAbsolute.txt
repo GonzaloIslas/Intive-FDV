@@ -1,0 +1,9 @@
+D:\Entrevista\Intiv-FDV\Intiv-FDV\bin\Debug\netstandard2.0\Intiv-FDV.deps.json
+D:\Entrevista\Intiv-FDV\Intiv-FDV\bin\Debug\netstandard2.0\Intiv-FDV.dll
+D:\Entrevista\Intiv-FDV\Intiv-FDV\bin\Debug\netstandard2.0\Intiv-FDV.pdb
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.csprojAssemblyReference.cache
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.csproj.CoreCompileInputs.cache
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.AssemblyInfoInputs.cache
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.AssemblyInfo.cs
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.dll
+D:\Entrevista\Intiv-FDV\Intiv-FDV\obj\Debug\netstandard2.0\Intiv-FDV.pdb
